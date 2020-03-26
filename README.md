@@ -1,7 +1,7 @@
 ```
 docker pull java
 
-docker run -v ~/Desktop/java_env:/daiki/share --name java_env -i -t java
+docker run -v ~/Desktop/shining/java_env:/daiki/share --name java_env -i -t java
 ```
 
 # cd daiki/share
